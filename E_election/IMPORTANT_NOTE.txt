@@ -1,0 +1,9 @@
+IMPORTANT NOTE:
+
+To complete the college logo setup:
+
+1. Replace the placeholder file at static/images/anand.jpg with the actual Anand College logo image.
+2. The logo has been configured to display at the top of all pages in the application.
+3. The logo height is set to 100px, but you can adjust this in templates/base.html if needed.
+
+Once you replace the image file, the logo will appear correctly on all pages.
